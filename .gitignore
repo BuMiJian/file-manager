@@ -1,0 +1,11 @@
+# 台账数据库
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
